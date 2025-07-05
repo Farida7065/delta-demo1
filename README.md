@@ -1,2 +1,2 @@
 # delta-demo1
-This is revision for git &amp; Github class
+This is revision for git &amp; Github class.
